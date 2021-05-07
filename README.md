@@ -32,4 +32,4 @@ So what can you apply?
 Basically, this app does not need to apply to the server because it is used to track your own costs. However, you can still apply this by using firebase. We will mention this feature in the next parts.
 
 
-This description is from [iosAppTemplate.com](https://www.iosapptemplates.com/blog/online-businesses/10-best-ios-app-ideas-for-beginners) as well as the idea behind the app. I'm just keeping up my skills with daily practice of these app ideas.
+This description is from [iosAppTemplates.com](https://www.iosapptemplates.com/blog/online-businesses/10-best-ios-app-ideas-for-beginners) as well as the idea behind the app. I'm just keeping up my skills with daily practice of these app ideas.
