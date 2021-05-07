@@ -41,6 +41,7 @@
 			isa = PBXGroup;
 			children = (
 				76A8B5EE2645C4690002FD25 /* ExpenseTracker */,
+				76A8B6052645CFE80002FD25 /* Resources */,
 				76A8B5ED2645C4690002FD25 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -56,15 +57,54 @@
 		76A8B5EE2645C4690002FD25 /* ExpenseTracker */ = {
 			isa = PBXGroup;
 			children = (
-				76A8B5EF2645C4690002FD25 /* AppDelegate.swift */,
-				76A8B5F12645C4690002FD25 /* SceneDelegate.swift */,
-				76A8B5F32645C4690002FD25 /* ViewController.swift */,
-				76A8B5F52645C4690002FD25 /* Main.storyboard */,
-				76A8B5F82645C46C0002FD25 /* Assets.xcassets */,
-				76A8B5FA2645C46C0002FD25 /* LaunchScreen.storyboard */,
-				76A8B5FD2645C46C0002FD25 /* Info.plist */,
+				76A8B6042645CFDF0002FD25 /* Models */,
+				76A8B6032645CFD10002FD25 /* Model Controllers */,
+				76A8B6072645D00B0002FD25 /* View Controllers */,
+				76A8B6062645CFFD0002FD25 /* Storyboards */,
 			);
 			path = ExpenseTracker;
+			sourceTree = "<group>";
+		};
+		76A8B6032645CFD10002FD25 /* Model Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Model Controllers";
+			sourceTree = "<group>";
+		};
+		76A8B6042645CFDF0002FD25 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		76A8B6052645CFE80002FD25 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				76A8B5EF2645C4690002FD25 /* AppDelegate.swift */,
+				76A8B5F82645C46C0002FD25 /* Assets.xcassets */,
+				76A8B5FD2645C46C0002FD25 /* Info.plist */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		76A8B6062645CFFD0002FD25 /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				76A8B5F52645C4690002FD25 /* Main.storyboard */,
+				76A8B5FA2645C46C0002FD25 /* LaunchScreen.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		76A8B6072645D00B0002FD25 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				76A8B5F32645C4690002FD25 /* ViewController.swift */,
+				76A8B5F12645C4690002FD25 /* SceneDelegate.swift */,
+			);
+			path = "View Controllers";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
